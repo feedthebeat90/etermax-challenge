@@ -10,8 +10,6 @@ DROP TABLE RespuestaB;
 DROP TABLE TableC;
 DROP TABLE RespuestaC;
 
-
-
 -- Problema a)
 
 /*
@@ -44,7 +42,6 @@ WHERE Data_Movimientos.cod_cliente = Data_Clientes.cod_cliente AND
 
 
 -- Problema b)
-
 
 /*
 
